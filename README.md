@@ -166,3 +166,5 @@ Finally, evaluate the performance of the model:
 
 After training the model for 1,000,000 timesteps, significant improvement was observed as the model began to perform better in the game. Further training up to 2,000,000 and 3,000,000 timesteps did not result in additional substantial improvements. However, after 4,000,000 timesteps, the model demonstrated the capability to clear World 1-1, indicating successful learning and application of gameplay strategies.
 
+(I have uploaded a pre - trained model(model_750000.zip) trained for 4000000 timestemps) 
+
