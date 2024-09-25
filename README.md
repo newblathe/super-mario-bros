@@ -168,3 +168,5 @@ After training the model for 1,000,000 timesteps, significant improvement was ob
 
 I've uploaded a pre-trained model, `model_750000`, which has been trained for 4,000,000 timesteps.
 
+https://github.com/user-attachments/assets/b388206b-bf7d-4b89-a2cc-b6eaf3833f83
+
