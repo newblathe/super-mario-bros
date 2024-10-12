@@ -1,4 +1,4 @@
-# **Super Mario Bros Reinforcement Learning Project**
+# **Super Mario Bros AI Agent**
 
 This project involves training and fine-tuning a reinforcement learning (RL) model to play Super Mario Bros using the `gym-super-mario-bros` environment and reinforcement learning techniques. Follow these sections to set up, preprocess, train, and evaluate the model.
 
